@@ -1,6 +1,6 @@
 # form_1
 
-## ★ **Formulario de Cadastro de Pessoas** ★
+## ★ **Formulário de Cadastro de Pessoas** ★
 
 ### Pré visualizção do projeto:
 
@@ -14,4 +14,4 @@ Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
 
 ### Explicação:
 
-Um formulario simples feito em HTML5 e CSS3.
+Um formulário simples feito em HTML5 e CSS3.
